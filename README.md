@@ -5,7 +5,6 @@ This repository hosts a machine learning project that utilizes regression analys
 ## Project Structure
 
 - **House_Price_Prediction.ipynb**: Jupyter notebook with the complete project workflow including data loading, preprocessing, model training, and evaluation.
-- **requirements.txt**: A text file listing the Python packages required to run the project.
 - **README.md**: This file, providing an overview of the project and guidance on how to set it up and use it.
 
 ## Features
