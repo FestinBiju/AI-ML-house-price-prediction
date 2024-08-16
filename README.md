@@ -26,4 +26,4 @@ This repository hosts a machine learning project that utilizes regression analys
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/california-house-price-prediction.git
+   git clone https://github.com/FestinBiju/AI-ML-house-price-prediction.git
